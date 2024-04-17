@@ -1,5 +1,5 @@
 
-# MIT Applied Data Science Capstone Project
+# MIT Applied Data Science Capstone Projects
 
 ## Project Overview
 
