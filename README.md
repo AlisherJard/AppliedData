@@ -1,7 +1,7 @@
 
 # MIT Applied Data Science Capstone Projects
 
-## Projects Overview
+## Program Overview
 
 This repository contains the capstone projects for the MIT Applied Data Science Program: Leveraging AI for Effective Decision-Making. The program focused on the application of advanced data science techniques and AI tools to solve real-world problems and enhance decision-making processes.
 
